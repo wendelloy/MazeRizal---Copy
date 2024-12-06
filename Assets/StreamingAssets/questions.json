@@ -1,0 +1,26 @@
+﻿[
+	{
+		"text": "What is 2 + 2?",
+		"choices": [
+			"4",
+			"3"
+		],
+		"correctAnswer": "4"
+	},
+	{
+		"text": "What color is the sky?",
+		"choices": [
+			"Blue",
+			"Green"
+		],
+		"correctAnswer": "Blue"
+	},
+	{
+		"text": "WTF?",
+		"choices": [
+			"Blue",
+			"Green"
+		],
+		"correctAnswer": "Blue"
+	}
+]
